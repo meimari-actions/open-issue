@@ -1,4 +1,4 @@
-name: 'Open Github Issue'
+name: 'Open Github Issue for Meimari'
 author: sherifmeimari
 description: 'Opens a github issue'
 inputs:
@@ -20,4 +20,4 @@ runs:
   main: 'dist/index.js'
 branding:
   icon: 'alert-octagon'
-  color: 'purple'
+  color: 'yellow'
